@@ -1,0 +1,10 @@
+.g-login{
+    justify-content: center;
+    margin-top: 10% !important;
+    width: 35%;
+    margin: 15px auto;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px rgb(0, 0, 0, 0.2);
+    padding: 1%;
+}

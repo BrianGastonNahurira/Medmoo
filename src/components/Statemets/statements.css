@@ -1,0 +1,17 @@
+.g-statements{
+    justify-content: center;
+    margin-top: 1% !important;
+    width: 60%;
+    margin: 15px auto;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px rgb(0, 0, 0, 0.2);
+}
+.g-options{
+    margin-left: 40px;
+}
+.g-th{
+    color: "blue";
+    font-weight:'bolder';
+    font-size:'1rem'
+}

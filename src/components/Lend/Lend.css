@@ -1,0 +1,51 @@
+.g-options button{
+    margin-top: 5px !important;
+    margin: 10px;
+}
+.g-num-money{
+    display: grid;
+}
+.g-submit-btns{
+    margin: 5px;
+}
+.details_ctr{
+    justify-content: center;
+    margin-top: 1% !important;
+    width: 60%;
+    margin: 15px auto;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 0 1px 2px rgb(0,0,0,0.2);
+
+}
+.g-operator-details{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 10px;
+
+}
+.g-options{
+    margin-left: 40px;
+}
+.g-num-money{
+    margin-left: 50px;
+}
+.g-borrow{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.g-amount-to-borrow{
+    margin: -2px 0px 20px 140px;
+    color: blue;
+}
+.g-output{
+    margin-left: 50px ;
+}
+.g-submit-btns{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.g-options{
+    margin-left: 40px;
+}
